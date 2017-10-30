@@ -389,6 +389,7 @@ static Class gAccessibilityTextFieldElementClass;
       }
       BOOL elementIsUIControl = [element isKindOfClass:[UIControl class]];
       BOOL elementIsUITextField = [element isKindOfClass:[UITextField class]];
+      BOOL elementIsUITextView = [element isKindOfClass:[UITextView class]];
 
       // Did begin editing notifications.
       if (elementIsUIControl) {
@@ -399,6 +400,12 @@ static Class gAccessibilityTextFieldElementClass;
         NSNotification *notification =
             [NSNotification notificationWithName:UITextFieldTextDidBeginEditingNotification
                                           object:element];
+        [NSNotificationCenter.defaultCenter postNotification:notification];
+      }
+      if (elementIsUITextView) {
+        NSNotification *notification =
+        [NSNotification notificationWithName:UITextViewTextDidBeginEditingNotification
+                                      object:element];
         [NSNotificationCenter.defaultCenter postNotification:notification];
       }
 
@@ -415,7 +422,12 @@ static Class gAccessibilityTextFieldElementClass;
                                           object:element];
         [NSNotificationCenter.defaultCenter postNotification:notification];
       }
-
+      if (elementIsUITextView) {
+        NSNotification *notification =
+        [NSNotification notificationWithName:UITextViewTextDidChangeNotification
+                                      object:element];
+        [NSNotificationCenter.defaultCenter postNotification:notification];
+      }
       // Did end editing notifications.
       if (elementIsUIControl) {
         [element sendActionsForControlEvents:UIControlEventEditingDidEndOnExit];
@@ -425,6 +437,12 @@ static Class gAccessibilityTextFieldElementClass;
         NSNotification *notification =
             [NSNotification notificationWithName:UITextFieldTextDidEndEditingNotification
                                           object:element];
+        [NSNotificationCenter.defaultCenter postNotification:notification];
+      }
+      if (elementIsUITextView) {
+        NSNotification *notification =
+        [NSNotification notificationWithName:UITextViewTextDidEndEditingNotification
+                                      object:element];
         [NSNotificationCenter.defaultCenter postNotification:notification];
       }
     }

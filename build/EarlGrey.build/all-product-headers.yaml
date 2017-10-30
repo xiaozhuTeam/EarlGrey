@@ -1,0 +1,629 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/var/folders/7g/ttgp8yqx3qj07t477v1z0vzr0000gn/T/tmp.78fE0Rcl/build/iphoneos/EarlGrey.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EarlGrey-Swift.h",
+          'external-contents': "/var/folders/7g/ttgp8yqx3qj07t477v1z0vzr0000gn/T/tmp.78fE0Rcl/build/iphoneos/EarlGrey.framework/Headers/EarlGrey-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "EarlGrey.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/EarlGrey.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYActionBlock.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYActionBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYActions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYActions.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAllOf.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYAllOf.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAnyOf.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYAnyOf.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAssertion.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Assertion/GREYAssertion.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAssertionBlock.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Assertion/GREYAssertionBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAssertionDefines.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Assertion/GREYAssertionDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAssertions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Assertion/GREYAssertions.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYBaseAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYBaseAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYBaseMatcher.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYBaseMatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYCondition.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYCondition.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYConfiguration.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYConstants.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYDataEnumerator.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Provider/GREYDataEnumerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYDefines.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYDescription.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYDispatchQueueIdlingResource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYDispatchQueueIdlingResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYElementFinder.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Core/GREYElementFinder.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYElementHierarchy.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYElementHierarchy.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYElementInteraction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Core/GREYElementInteraction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYElementMatcherBlock.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYElementMatcherBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYFailureHandler.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Exception/GREYFailureHandler.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYFrameworkException.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Exception/GREYFrameworkException.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYIdlingResource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/AppSupport/GREYIdlingResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYInteraction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Core/GREYInteraction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYLayoutConstraint.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYLayoutConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYManagedObjectContextIdlingResource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYManagedObjectContextIdlingResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYMatcher.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYMatcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYMatchers.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYMatchers.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYNSTimerIdlingResource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYNSTimerIdlingResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYNot.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYNot.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYOperationQueueIdlingResource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYOperationQueueIdlingResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYProvider.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Provider/GREYProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYScreenshotUtil.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYScreenshotUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYScreenshotUtil.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYScreenshotUtil.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYScrollActionError.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYScrollActionError.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSyncAPI.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYSyncAPI.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTestHelper.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYTestHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYUIThreadExecutor.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYUIThreadExecutor.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/var/folders/7g/ttgp8yqx3qj07t477v1z0vzr0000gn/T/tmp.78fE0Rcl/build/iphoneos/EarlGrey.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/build/EarlGrey.build/Release-iphoneos/EarlGrey.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/var/folders/7g/ttgp8yqx3qj07t477v1z0vzr0000gn/T/tmp.78fE0Rcl/build/iphoneos/EarlGrey.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CAAnimation+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/CAAnimation+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "CALayer+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/CALayer+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "CGGeometry+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/CGGeometry+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYActions+Internal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYActions+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAnalytics.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYAnalytics.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAnalyticsDelegate.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYAnalyticsDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAppStateTracker.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYAppStateTracker.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAppStateTrackerObject.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYAppStateTrackerObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAppleInternals.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYAppleInternals.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYAssertions+Internal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Assertion/GREYAssertions+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYCAAnimationDelegate.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Delegate/GREYCAAnimationDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYChangeStepperAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYChangeStepperAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYDispatchQueueTracker.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYDispatchQueueTracker.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYElementInteraction+Internal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Core/GREYElementInteraction+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYElementProvider.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Provider/GREYElementProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYError+Internal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYError+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYError.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYError.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYErrorConstants.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYErrorConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYErrorConstants.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYErrorConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYFailureFormatter.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYFailureFormatter.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYFailureScreenshotter.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYFailureScreenshotter.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYInteractionDataSource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Core/GREYInteractionDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYKeyboard.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Core/GREYKeyboard.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYLogger.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYMultiFingerSwipeAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYMultiFingerSwipeAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYNSURLConnectionDelegate.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Delegate/GREYNSURLConnectionDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYObjcRuntime.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYObjcRuntime.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYObjectDeallocationTracker.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYObjectDeallocationTracker.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYObjectFormatter.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYObjectFormatter.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYPathGestureUtils.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYPathGestureUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYPickerAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYPickerAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYPinchAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYPinchAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYRunLoopSpinner.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYRunLoopSpinner.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYScreenshotUtil+Internal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYScreenshotUtil+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYScrollAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYScrollAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYScrollToContentEdgeAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYScrollToContentEdgeAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSlideAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYSlideAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYStopwatch.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYStopwatch.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYStringDescription.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Matcher/GREYStringDescription.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSurrogateDelegate.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Delegate/GREYSurrogateDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSwipeAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYSwipeAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSwizzler.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYSwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSwizzler.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYSwizzler.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYSyntheticEvents.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Event/GREYSyntheticEvents.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTapAction.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Action/GREYTapAction.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTestCaseInvocation.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYTestCaseInvocation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTimedIdlingResource.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYTimedIdlingResource.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTouchInfo.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Event/GREYTouchInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTouchInjector.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Event/GREYTouchInjector.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTraversal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Traversal/GREYTraversal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTraversalBFS.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Traversal/GREYTraversalBFS.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYTraversalDFS.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Traversal/GREYTraversalDFS.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYUIThreadExecutor+Internal.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Synchronization/GREYUIThreadExecutor+Internal.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYUIWebViewDelegate.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Delegate/GREYUIWebViewDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYUIWindowProvider.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Provider/GREYUIWindowProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYVisibilityChecker.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Common/GREYVisibilityChecker.h"
+        },
+        {
+          'type': 'file',
+          'name': "GREYZeroToleranceTimer.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Event/GREYZeroToleranceTimer.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSError+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSError+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSObject+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSRunLoop+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSRunLoop+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSString+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSTimer+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSTimer+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURL+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSURL+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLConnection+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSURLConnection+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLSession+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/NSURLSession+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAnimation+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIAnimation+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIApplication+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIApplication+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIGestureRecognizer+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIGestureRecognizer+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIScrollView+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISwitch+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UISwitch+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITouch+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UITouch+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIView+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIViewController+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIViewController+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIWebView+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWindow+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/UIWindow+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "XCTestCase+GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/XCTestCase+GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "_UIModalItemsPresentingViewController_GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/_UIModalItemsPresentingViewController_GREYAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "__NSCFLocalDataTask_GREYAdditions.h",
+          'external-contents': "/Users/zhimingwang/workspace/Github/EarlGrey/EarlGrey/Additions/__NSCFLocalDataTask_GREYAdditions.h"
+        }
+      ]
+    }
+  ]
+}
