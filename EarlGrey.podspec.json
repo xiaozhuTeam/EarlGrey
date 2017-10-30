@@ -34,8 +34,12 @@
   },
   "requires_arc": true,
   "source": {
-    "git": "git@github.com:xiaozhuTeam/EarlGrey.git/EarlGrey.zip"
+    "git": "git@github.com:xiaozhuTeam/EarlGrey.git"
   },
+  "source_files": [
+    "EarlGrey/*.{h,m}",
+    "EarlGrey/*/*.{h,m}"
+  ],
   "frameworks": [
     "CoreData",
     "CoreFoundation",
@@ -46,14 +50,14 @@
     "UIKit",
     "XCTest"
   ],
-  "preserve_paths": [
-    "EarlGrey/CHANGELOG.md",
-    "EarlGrey/LICENSE",
-    "EarlGrey/README.md"
-  ],
-  "ios": {
-    "vendored_frameworks": "EarlGrey/EarlGrey.framework"
-  },
+  // "preserve_paths": [
+  //   "EarlGrey/CHANGELOG.md",
+  //   "EarlGrey/LICENSE",
+  //   "EarlGrey/README.md"
+  // ],
+  // "ios": {
+  //   "vendored_frameworks": "EarlGrey.zip/EarlGrey.framework"
+  // },
   "pod_target_xcconfig": {
     "FRAMEWORK_SEARCH_PATHS": "$(inherited) $(PLATFORM_DIR)/Developer/Library/Frameworks",
     "ENABLE_BITCODE": "NO",
